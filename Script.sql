@@ -1,5 +1,5 @@
 
---CREATE DATABASE Municipality
+CREATE DATABASE Municipality
 
 USE [Municipality]
 
